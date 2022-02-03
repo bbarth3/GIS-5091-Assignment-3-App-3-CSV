@@ -15,7 +15,6 @@
 
       
      var url = "https://raw.githubusercontent.com/gbrunner/adv-programming-for-gis-and-rs/master/Web%20Development%20Module/Unit%202%20-%20ArcGIS%20JavaScript%20API/stl_crime_wgs_84.csv";
-     esriConfig.request.corsEnabledServers.push('https://rawgit.com');
 
      
 
