@@ -16,7 +16,6 @@
       // If CSV files are not on the same domain as your website, a CORS enabled server
       // or a proxy is required.
      var url = "https://raw.githubusercontent.com/gbrunner/adv-programming-for-gis-and-rs/master/Web%20Development%20Module/Unit%202%20-%20ArcGIS%20JavaScript%20API/stl_crime_wgs_84.csv";
-     esriConfig.request.corsEnabledServers.push('https://rawgit.com');
 
       // Paste the url into a browser's address bar to download and view the attributes
       // in the CSV file. These attributes include:
